@@ -1,7 +1,10 @@
 ### Hi there 👋 I'm Ahmed, 
 ## I'am a Javascript Developer!
 
-<p>Connect with me on
+
+<p>I am looking to further develope my coding skills, and adding more technologies to my technology stack<p>
+
+<p>To get in touch with me:
 
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/ahmed-abdelkhalek-021475aa/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
