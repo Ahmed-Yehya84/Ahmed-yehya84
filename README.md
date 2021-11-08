@@ -43,9 +43,13 @@
 
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> &nbsp;
 
+<p>My git-hub stats<p>
+
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-yehya84)](https://github.com/Ahmed-yehya84/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-yehya84&langs_count=5)](https://github.com/Ahmed-yehya84/github-readme-stats)
 
 
-<img src="	https://github-readme-stats.vercel.app/api/top-langs/?username={Ahmed-yehya84}&theme=blue-green"/>
 <!--
 **Ahmed-Yehya84/Ahmed-yehya84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
