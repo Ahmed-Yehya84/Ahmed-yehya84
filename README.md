@@ -41,7 +41,7 @@
 
 [![Jest](https://img.shields.io/badge/-Jest-97737e?logo=jest&style=for-the-badge)](https://jestjs.io/ru)
 
-
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> &nbsp;
 
 
 <!--
