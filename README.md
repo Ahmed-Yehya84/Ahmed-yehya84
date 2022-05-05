@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ahmed, 
-## I'am a Javascript Developer!
+## I am a Javascript Developer!
 
 
 <p>I am looking to further develope my coding skills, and adding more technologies to my stack<p>
