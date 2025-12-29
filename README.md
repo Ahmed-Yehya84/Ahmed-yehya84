@@ -1,69 +1,52 @@
-### Hi there 👋 I'm Ahmed, 
-## I am a Javascript Developer!
+# 👋 Привет! I'm Ahmed Yehya
+### Full-Stack Developer | AI Automation & Security Enthusiast
 
+I build secure, scalable, and intelligent web applications. My focus is on turning complex data into intuitive user experiences using modern JavaScript/TypeScript ecosystems and AI integration.
 
-<p>I am looking to further develope my coding skills, and adding more technologies to my stack<p>
-  
-  <p>To view my work click <span><a href="https://github.com/Ahmed-Yehya84?tab=repositories&q=&type=public&language=&sort=">here</a><span></p>
-    <br>
+---
 
-<p>To get in touch with me:
+### 🚀 Featured Projects
 
-<br>
-<a target="_blank" href="https://www.linkedin.com/in/abdelkhalek-ahmed/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="mailto:ahmedyehya84@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
+* **[FinGard AI](https://github.com/Ahmed-Yehya84/fingard-live-bot)** - Advanced Telegram bot utilizing **Gemini 1.5 Flash** for NLP and Computer Vision (Receipt Scanning), powered by **Supabase**.
+* **[BudgetWise](https://github.com/Ahmed-Yehya84/budget-tracker)** - Secure financial tracker with real-time **Firebase** sync and **Webpack** API protection.
+* **[Mesto](https://github.com/Ahmed-Yehya84/mesto-project)** - Interactive gallery featuring **Unsplash API** integration and modular functional logic.
 
-<a target="_blank" href="https://t.me/ahmedyehya84">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-&emsp;
+---
 
-### My Developer Stack:
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+### 🛠️ Tech Stack & Tools
 
-[![React](https://shields.io/badge/-React-f9fbfa?logo=react&style=for-the-badge)](https://reactjs.org/)&nbsp;
+**Frontend & Logic**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-black?style=flat-square)
 
-[![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)&nbsp;
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-[![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)&nbsp;
+**AI & DevOps**
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75E9?style=flat-square&logo=googlegemini&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-[![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)&nbsp;
+---
 
-[![GitHub](https://shields.io/badge/-GitHub-333?logo=GitHub&style=for-the-badge)](https://github.com/)&nbsp;
+### 🧠 Strategic Focus
+- **Security First:** Implementation of environment variables and build-time API protection.
+- **AI-Driven UX:** Leveraging LLMs for natural language processing and computer vision.
+- **Clean Code:** Adhering to BEM methodology and modular architecture for maintainability.
 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> &nbsp;
+---
 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)&nbsp;
+### 📫 Connect with me
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~017520fc816009a0bd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelkhalek-ahmed/)
 
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f9fbfa?logo=PostgreSQL&style=for-the-badge)](https://www.postgresql.org/)&nbsp;
+---
 
-[![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)&nbsp;
-
-[![Sequelize](https://img.shields.io/badge/-Sequelize-f9fbfa?logo=Sequelize&style=for-the-badge)](https://sequelize.org/master/)&nbsp;
-
-[![Jest](https://img.shields.io/badge/-Jest-97737e?logo=jest&style=for-the-badge)](https://jestjs.io/ru)
-
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> &nbsp;
-
-<p>My git-hub stats<p>
-
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-yehya84)](https://github.com/Ahmed-yehya84/github-readme-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-yehya84&langs_count=5)](https://github.com/Ahmed-yehya84/github-readme-stats)
-
-
-<!--
-**Ahmed-Yehya84/Ahmed-yehya84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*“Code is easy. Clean, secure, and scalable code is an art.”*
